@@ -55,8 +55,5 @@ Open the notebook in [Google Colab](https://colab.research.google.com/) — all 
 ## Key Takeaways
 
 Logistic regression sees raw pixels with no spatial awareness. A CNN keeps the image intact and slides filters across it to detect edges, curves, and shapes — that spatial understanding is what makes it better suited for image tasks. The training history plots show both models learning quickly in the first few epochs before plateauing, with validation accuracy staying close to training accuracy throughout — a sign of healthy generalization.
-```
 
-And update your one-line repo description to:
-```
 Classifying handwritten digits with logistic regression (97.2%) and a CNN (98.6%) — a beginner ML pipeline from data loading to training, evaluation, and interpretation.
